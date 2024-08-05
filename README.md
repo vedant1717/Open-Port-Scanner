@@ -31,7 +31,7 @@ This Python script scans open ports on specified targets. It has been tested on 
 
 1. **Run the script**:
    ```bash
-   python port_scanner.py
+   python portscanner.py
    ```
 
 2. **Enter target(s) and port range**:
