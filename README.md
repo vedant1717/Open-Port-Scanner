@@ -18,8 +18,8 @@ This Python script scans open ports on specified targets. It has been tested on 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/open-port-scanner.git
-   cd open-port-scanner
+   git clone https://github.com/vedant1717/Open-Port-Scanner.git
+   cd Open-Port-Scanner
    ```
 
 2. **Install the required module**:
@@ -62,7 +62,7 @@ Starting scan for 192.168.1.2
 
 ## Screenshot
 
-![Screenshot](portscanner.png)
+![Screenshot](Portscanner.png)
 
 ## License
 
